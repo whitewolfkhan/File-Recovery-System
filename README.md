@@ -32,7 +32,7 @@ A Python-based file recovery tool that helps scan storage devices, preview recov
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/file-recovery-system.git
+git clone https://github.com/whitewolfkhan/file-recovery-system.git
 cd file-recovery-system
 pip install -r requirements.txt
 python main.py
